@@ -9,6 +9,7 @@ function App() {
                <GreetUser greet={"good Morning"}/>
                  <GreetUser greet={"good afternoon"}/>
                    <GreetUser greet={"good evening"}/>
+                   <GreetUser greet={"good night"}/>
 
     </div>
   );
